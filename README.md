@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Stylianos's profile!
+  Welcome to Stylianos' profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
