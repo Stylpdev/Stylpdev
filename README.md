@@ -65,7 +65,7 @@
 </p>
 
 
-### :fire: Statistics
+## :fire: Statistics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Stylpdev&show_icons=true&repo=github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stylpdev)](https://git.io/streak-stats)
