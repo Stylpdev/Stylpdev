@@ -71,6 +71,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stylpdev)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stylpdev&layout=compact)
 
-
-![GitStats Overview - Light](https://raw.githubusercontent.com/Stylpdev/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/Stylpdev/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/Stylpdev/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/Stylpdev/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
-
