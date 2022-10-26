@@ -70,7 +70,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Stylpdev&show_icons=true&repo=github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stylpdev)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stylpdev&layout=compact)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stylpdev&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15" alt="Stylpdev" /></p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Stylpdev&label=Profile%20views&color=0e75b6&style=flat" alt="Stylpdev" /> </p>
